@@ -1,5 +1,7 @@
 # 📊 Customer Profitability & Divestment Dashboard
 
+![Dashboard Preview](dashboard-preview.png)
+
 Hey there! 👋 This is a Tableau dashboard I built to explore customer and product profitability across different industries. The goal? Help businesses spot which areas are worth investing in — and which ones might be dragging things down.
 
 🔗 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/amelia.mimi/viz/10_4_17426764337730/3_3CustomerDivestment)  
