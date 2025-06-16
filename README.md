@@ -43,15 +43,5 @@ Hey there! 👋 This is a Tableau dashboard I built to explore customer and prod
 
 ---
 
-## 🙋‍♀️ About Me
-Hi! I’m Amelia — an aspiring data analyst who loves turning raw data into clear, actionable insights.  
-🔗 [GitHub Profile](https://github.com/AmeliaMimi)
-
----
-
-## 💾 Try It Out
-- View the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/amelia.mimi/viz/10_4_17426764337730/3_3CustomerDivestment)
-- Or download the `10.4.twbx` file and explore it in Tableau Desktop
-
 Thanks for checking out my project! 😊
 
