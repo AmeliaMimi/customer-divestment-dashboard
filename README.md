@@ -1,47 +1,19 @@
 # 📊 Customer Profitability & Divestment Dashboard
 
-This Tableau dashboard provides a comprehensive analysis of customer profitability, market dynamics, and strategic divestment opportunities across business sectors and products. It enables stakeholders to identify underperforming segments, evaluate market potential, and make data-driven decisions to optimize revenue and margin.
+Hey there! 👋 This is a Tableau dashboard I built to explore customer and product profitability across different industries. The goal? Help businesses spot which areas are worth investing in — and which ones might be dragging things down.
 
-🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/10_4/11CustomerMarketSize)**  
-📁 Includes: `10.4.twbx` (Tableau Packaged Workbook)
-
----
-
-## 📈 Key Analyses
-
-### 1. Market Overview
-- **Customer Market Size**: Compares the number of businesses in each sector.
-- **Customer Revenue**: Assesses total and regional revenue distribution.
-- **Seasonality Trends**: Reveals fluctuations in revenue by month and sector.
-
-### 2. Profitability Insights
-- **Total Profit by Business Type**: Highlights profit concentration.
-- **Average Profit Margin**: Shows profitability efficiency by industry.
-- **Market Growth vs. Profitability**: Identifies high-potential sectors.
-
-### 3. Strategic Divestment
-- **Industry-Level Divestment**: Flags underperforming business types.
-- **Chemical Portfolio Analysis**: Compares average profit margin by product.
-- **Customer-Level Divestment**: Identifies customers with negative profit margins.
+🔗 [Check it out on Tableau Public](https://public.tableau.com/views/10_4_17426764337730/3_3CustomerDivestment?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📁 File included: `10.4.twbx` (Tableau workbook)
 
 ---
 
-## 🧰 Tools & Skills Used
-- **Tool**: Tableau Public  
-- **Skills**: Data cleaning, EDA, business intelligence, KPI tracking, storytelling
+## 💡 What This Dashboard Covers
 
----
+### 🏪 Market Overview
+- **Customer Market Size**
+- **Revenue Breakdown**
+- **Seasonality Trends**
 
-## 🧠 Key Takeaways
-- Certain industries (e.g., **Paper and Packaging**) generated high revenue but low margins.
-- Seasonal spikes suggest timing strategies for promotions and inventory.
-- Low-margin customers and products were identified as candidates for divestment.
-
----
-
-## ✍️ Author
-**Amelia Mimi** – Aspiring Data Analyst  
-🔗 [GitHub Profile](https://github.com/AmeliaMimi)
 
 ---
 
